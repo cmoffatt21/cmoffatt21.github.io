@@ -49,8 +49,7 @@ p.description {
 	color: white;
 }
 #schedule {
-	background: red;
-	color: white;
+	background: gold;
 	font-size: 20px;
 	text-align: center;
 }
@@ -67,4 +66,12 @@ p.description {
 	color: red;
 	text-align: right;
 	font-size: 20px;
+}
+
+span.loss {
+	color: red;
+}
+
+span.win {
+	color: green;
 }
