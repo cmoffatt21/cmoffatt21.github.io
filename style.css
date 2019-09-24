@@ -75,3 +75,7 @@ span.loss {
 span.win {
 	color: green;
 }
+
+a:hover {
+  color: hotpink;
+}
