@@ -62,3 +62,9 @@ p.description {
 #TOTW {
 	background: red;
 }
+
+#links {
+	color: red;
+	text-align: right;
+	font-size: 20px;
+}
